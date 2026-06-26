@@ -97,9 +97,7 @@ Business Recommendations
 
 data/
 notebooks/
-screenshots/
-report/
-video/
+
 
 ## Results
 
